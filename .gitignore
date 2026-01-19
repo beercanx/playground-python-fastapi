@@ -1,2 +1,4 @@
 .idea/
 .venv/
+__pycache__/
+playground_python_fastapi.egg-info/
