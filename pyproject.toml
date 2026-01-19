@@ -1,0 +1,17 @@
+[project]
+name = "playground-python-fastapi"
+version = "0.1.0"
+description = "Playground project for Python and FastAPI"
+readme = "README.md"
+authors = [
+    { name = "James Bacon", email = "james@baconi.co.uk" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+playground-python-fastapi = "playground_python_fastapi:main"
+
+[build-system]
+requires = ["uv_build>=0.9.26,<0.10.0"]
+build-backend = "uv_build"
