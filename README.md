@@ -18,3 +18,11 @@ Running the pytest tests
 ```bash
 uv run pytest tests -v
 ```
+
+## Reading materials
+List of most of the content/blogs/projects that inspired/influenced this setup
+* https://github.com/stejackson94/DogAsAService
+* https://docs.astral.sh/uv/guides/integration/fastapi
+* https://docs.astral.sh/uv/guides/integration/github
+* https://docs.astral.sh/uv/guides/integration/dependency-bots/#dependabot
+* https://azzamjiul.medium.com/introduction-to-integration-testing-in-fastapi-773fe8567337
