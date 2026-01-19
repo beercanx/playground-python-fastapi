@@ -1,5 +1,9 @@
 # Playground Python FastAPI
-Playground project for Python and FastAPI
+Playground project for Python and FastAPI  
+
+[![python](https://github.com/beercanx/playground-python-fastapi/actions/workflows/python.yml/badge.svg)](https://github.com/beercanx/playground-python-fastapi/actions/workflows/python.yml) 
+[![CodeQL](https://github.com/beercanx/playground-python-fastapi/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/beercanx/playground-python-fastapi/actions/workflows/github-code-scanning/codeql) 
+[![Dependabot Updates](https://github.com/beercanx/playground-python-fastapi/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/beercanx/playground-python-fastapi/actions/workflows/dependabot/dependabot-updates)
 
 ## Getting Started
 
